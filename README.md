@@ -8,7 +8,7 @@ The task of my application, depending on the requirements, is to slow down or sp
 I used Clickermann to automate my work tasks on computers with different performance.
 Faced with the situation that on a weaker computer, the target program does not have time to respond to the specified actions of the script
 I came to the conclusion that I needed to slow it down.
-The built-in adjustment seemed inconvenient to me, so I present my application to your attention.
+The built-in adjustment of the script's running time seemed inconvenient to me, so I present my implementation to your attention.
 
 Requirements:
 - pre-installed Python.
@@ -22,7 +22,7 @@ RU:
 Я использовал Clickermann для автоматизации своих рабочих задач на разных по производительности компьютерах. 
 Столкнувшись с ситуацией, что на более слабом компьютере целевая программа не успевает реагировать на заданные действия скрипта
 я пришёл к выводу, что мне необходимо его замедлить.
-Встроенная корректировка мне показалась неудобной, поэтому я представляю вашему вниманию своё приложение.
+Встроенная корректировка времени работы скрипта мне показалась неудобной, поэтому я представляю вашему вниманию свою реализацию.
 
 Требования:
 - предустановленный Python.
